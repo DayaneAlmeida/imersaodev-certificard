@@ -58,3 +58,12 @@ li a:link, a:visited {
   text-decoration: none;
   
 }
+
+ul {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  font-weight: bold;
+  list-style:none;
+  padding: 0;   
+}
