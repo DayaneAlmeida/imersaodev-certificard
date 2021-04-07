@@ -57,3 +57,7 @@ No campo Pen Title você pode dar o nome do seu projeto;
 No campo Pen Description, você pode dar detalhes sobre o projeto (o que ele faz, qual objetivo do projeto);
 Para compartilhar seu projeto, no campo Tags, você pode adicionar #imersaodev,#alura
 Agora só salvar seu projeto e compartilhar o link marcando a Alura nas redes sociais!
+
+
+Ebook da ImersaoDev https://drive.google.com/file/d/1HSOYwB9sRolUjSuiDyC7h7q89iX_ehqq/view
+Link completo no github da Alura: https://github.com/alura-cursos/projetos/tree/aula_10
