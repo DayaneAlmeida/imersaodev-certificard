@@ -15,7 +15,7 @@ section {
   padding: 15px;
   border: 1px solid black;
   border-radius: 5px;
-}
+} 
 
 section h1 {
   font-size: 20px;
@@ -36,6 +36,7 @@ div {
   /* propriedade visual: valor   */
   background-color: #b6edf5;
   text-align: left;
+  
 }
 
 img {
